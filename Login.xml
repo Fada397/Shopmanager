@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <log>
+    <ID>0</ID>
+    <Name>Admin</Name>
+    <Username>Admin</Username>
+    <Password>12345</Password>
+    <Privilege>1</Privilege>
+  </log>
+</DocumentElement>
